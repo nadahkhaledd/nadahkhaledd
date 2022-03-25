@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning python and its technologies in order to improve my skills.
 
 - 📫 How to reach me:
-> [linkedin](https://www.linkedin.com/in/nadahkhaledd10/)
+> [linkedin](https://www.linkedin.com/in/nadahkhaledd10/)  
+> Email: nadahkhaledd@gmail.com
 
 <!--
 **nadahkhaledd/nadahkhaledd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
