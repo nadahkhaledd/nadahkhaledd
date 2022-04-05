@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning python and its technologies in order to improve my skills.
+- 🔭 I’m currently working on improving my Python skills.
 
 - 📫 How to reach me:
 > [linkedin](https://www.linkedin.com/in/nadahkhaledd10/)  
