@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on improving my Python skills.
+- 🔭 I’m currently working on improving my ML & Python skills.
 
 - 📫 How to reach me:
 > [linkedin](https://www.linkedin.com/in/nadahkhaledd10/)  
