@@ -30,8 +30,9 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
   
   
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadahkhaledd&show_icons=true&locale=en&layout=compact" alt="nadahkhaledd" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nadahkhaledd&show_icons=true&locale=en" alt="nadahkhaledd" /></p>
 <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nadahkhaledd&show_icons=true&locale=en&layout=compact" alt="nadahkhaledd" /></p>
+<br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=nadahkhaledd&show_icons=true&locale=en" alt="nadahkhaledd" /></p>
+<br><br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=nadahkhaledd&" alt="nadahkhaledd" /></p>
