@@ -6,6 +6,8 @@
 
 - 👨‍💻 All of my projects are available at my repos
 
+- Aspiring to Work in Backend development Or Data Science projects 
+
 - 📫 How to reach me **nadahkhaledd@gmail.com**
 
 ##   
