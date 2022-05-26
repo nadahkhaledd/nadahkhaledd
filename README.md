@@ -32,7 +32,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5
 <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> </p>
   
 ##
-![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nadahkhaledd&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nadahkhaledd&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat)  
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nadahkhaledd&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D)  
+![Languages](https://github-readme-stats.vercel.app/api/top-langs?username=nadahkhaledd&show_icons=true&locale=en&bg_color=2e3941&text_color=ffffff&layout=compact)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nadahkhaledd&show_icons=true&locale=en&bg_color=2e3941&text_color=ffffff&repo=convoychat)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nadahkhaledd&theme=dark&background=2e3941&date_format=M%20j%5B%2C%20Y%5D)  
 
