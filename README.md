@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Data Science, ML, Python**
 
-- Aspiring to Work in **Backend development or Data Science projects** 
+- Aspiring to Work in **Backend development, Fullstack development or Data Science projects** 
 
 - 📫 How to reach me **nadahkhaledd@gmail.com**
 
