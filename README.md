@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nadah</h1>
-<h3 align="center">A Senior Computer Science Student</h3>
+<h3 align="center">A Computer science fresh graduate</h3>
 
 
 - 🌱 I’m currently learning **Data Science, ML, Python**
