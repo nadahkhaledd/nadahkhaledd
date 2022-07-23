@@ -2,11 +2,11 @@
 <h3 align="center">A Computer science fresh graduate</h3>
 
 
-- 🌱 I’m currently learning **Fullstack, Data Science, ML, Python**
+- 🌱 I’m currently learning **Fullstack, Data Science, ML**
 
 - Aspiring to Work in **Backend development, Fullstack development or Data Science projects** 
 
-- 📫 How to reach me **nadahkhaledd@gmail.com**
+- 📫 How to reach me: **nadahkhaledd@gmail.com**
 
 ##   
 
