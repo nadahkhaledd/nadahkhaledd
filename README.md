@@ -2,7 +2,7 @@
 <h3 align="center">A Computer science fresh graduate</h3>
 
 
-- 🌱 I’m currently learning **Fullstack, Data Science, ML**
+- 🌱 I’m currently learning **Fullstack/Backend development, Data Science, ML**
 
 - Aspiring to Work in **Backend development, Fullstack development or Data Science projects** 
 
