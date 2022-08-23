@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **Fullstack/Backend development, Data Science, ML**
 
+- currently I am a software engineer intern at a software development company  
+
 - Aspiring to Work in **Backend development, Fullstack development or Data Science projects** 
 
 - 📫 How to reach me: **nadahkhaledd@gmail.com**
