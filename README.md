@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Fullstack/Backend development, Data Science, ML**
 
-- currently I am working a Sftware Development Engineer at a software/IT services corporate
+- currently I am working as Software Development Engineer at a software/IT services corporate
 
 - 📫 How to reach me: **nadahkhaledd@gmail.com**
 
